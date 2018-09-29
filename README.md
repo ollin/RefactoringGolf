@@ -42,8 +42,9 @@ These are the best known scores, achieved using IntelliJ:
 <b>Course Record: 38</b>
 
 ## Acknowledgements:
-Thank you @ivanmoore for making a workshop 
-with this kata at #SoCraTes_UK2018 (I had 23 points at hole 2 and was ashamed but I learned something... ).
+Thank you @ivanmoore for running a workshop 
+with this kata at #SoCraTes_UK2018 On the second hole, I had 23 points and became thoughtful. 
+I had to improve my skills with the IDE...
 
 The original README was created by David Denton (@daviddenton). 
 
